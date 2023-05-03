@@ -1,5 +1,25 @@
 Aspectos a serem avaliados:
-1º Tempo de resposta\Desempenho
-2º Escalabilidade
-3º Custo
-4º Complexibilidade ==> nível médio de complexidade ciclomática
+Variáveis de entrada:
+  1º Tempo de resposta\Desempenho
+  2º Escalabilidade
+  3º Custo
+  4º Complexibilidade ==> nível médio de complexidade ciclomática
+  5º Tolerância a falhas
+  
+Variáveis de saída:
+  1º Microsserviços
+    - Escalabilidade
+    - Tolerância a falhas
+    - Armazenamento - problema
+    - Latência - alta
+    
+  2º Monolítica
+    - Acoplamento forte
+    - Escalabilidade limitada
+    - Latência - media
+    - Intolerante a falhas
+    
+  3º Single Page
+    - Latencia - alta
+    - Tolerante a falahs
+    - Escalabilidade média
