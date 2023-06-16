@@ -4,7 +4,7 @@ Variáveis de entrada:
     - baixo = 0 a 2 segundos
     - médio = 1 a 10 segundos
     - alta = > 10 segundos
-    
+
   2º Escalabilidade
     - 
   3º Custo
