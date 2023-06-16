@@ -6,11 +6,32 @@ Variáveis de entrada:
     - alta = > 10 segundos
 
   2º Escalabilidade
-    - 
-  3º Custo
-  4º Complexibilidade ==> nível médio de complexidade ciclomática
-  5º Tolerância a falhas
+    - baixo = 10 com
+    - médio = 20 a 50
+    - alto = > 50
+
+  3º Complexibilidade ==> nível médio de complexidade ciclomática
+    - 1-10	Método simples. Baixo risco.
+    - 11-20	Método razoavelmente complexo. Moderado risco.
+    - 21-50	Método muito complexo. Elevado risco.
+    by McCabe book
   
+  4º Tolerância a falhas
+    - baixo 5.000 a 10.000 por horas.
+    - médio 10.000 a 30.000 por horas.
+    - alto > 30.000 por horas.
+    
+  5º Custo
+    - baixo = 1kk 
+      - 1 médio e o resto ruim
+    - médio = 10kk
+      - 2 bom e o resto ruim
+      - tudo médio
+      - 1 bom 2 médio e o resto ruim
+    - alto = 50kk
+      - 3 bom 1 baixo
+      - 2 bom e 2 médio
+      
 Variáveis de saída:
   1º Microsserviços
     - Escalabilidade
