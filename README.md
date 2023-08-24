@@ -1,3 +1,5 @@
+Sistema de classificador pelo método furry, voltado para definir, com base em algumas características de entrada, o quanto é positivo o uso da arquitetura de Microservice.
+Desenvolvido em matlab. Detalhes das especificações do projeto a baixo.
 Aspectos a serem avaliados:
 Variáveis de entrada:
   1º Tempo de resposta\Desempenho 
@@ -37,18 +39,4 @@ Variáveis de saída:
     - Escalabilidade
     - Tolerância a falhas
     - Armazenamento - problema
-    - Latência - alta
-    - 
-  
-/*  
-  2º Monolítica
-    - Acoplamento forte
-    - Escalabilidade limitada
-    - Latência - media
-    - Intolerante a falhas
-    
-  3º Single Page
-    - Latencia - baixa
-    - Tolerante a falahs
-    - Escalabilidade média
-*/
+    - Latência 
