@@ -1,4 +1,4 @@
-Sistema de classificador pelo método furry, voltado para definir, com base em algumas características de entrada, o quanto é positivo o uso da arquitetura de Microservice.
+Sistema de classificador pelo método fuzzy, voltado para definir, com base em algumas características de entrada, o quanto é positivo o uso da arquitetura de Microservice.
 Desenvolvido em matlab. Detalhes das especificações do projeto a baixo.
 Aspectos a serem avaliados:
 Variáveis de entrada:
